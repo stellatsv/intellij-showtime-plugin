@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>org.example.untitled</id>
-    <name>Help Entry</name>
+    <name>Showtime</name>
     <vendor email="" url="">Stella Tsv</vendor>
 
     <description> A new entry is available in Help Menu. On click, it shows a notification with the current time. Related unit tests are included. </description>
