@@ -1,10 +1,9 @@
 <idea-plugin>
     <id>org.example.untitled</id>
-    <name> display name here</name>
-    <vendor email="" url="">Your Company</vendor>
+    <name>Help Entry</name>
+    <vendor email="" url="">Stella Tsv</vendor>
 
-    <description> ter short description for your plugin here.
-        dsf afadsfadsfadf </description>
+    <description> A new entry is available in Help Menu. On click, it shows a notification with the current time. Related unit tests are included. </description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->

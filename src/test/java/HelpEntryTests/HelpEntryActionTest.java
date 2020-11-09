@@ -39,6 +39,5 @@ public class HelpEntryActionTest {
         HelpEntryNotification notification = notificationArg.getValue();
         assertEquals("Current Time", notification.getTitle());
         assertTrue(notification.getContent().matches("The current time is: [0-9][0-9]:[0-9][0-9]:[0-9][0-9]"));
-        System.out.println("Finished Running the test.");
     }
 }

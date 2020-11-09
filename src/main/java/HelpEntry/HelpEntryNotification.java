@@ -9,7 +9,7 @@ public class HelpEntryNotification extends Notification{
             new NotificationGroup("Show current time group",
                     NotificationDisplayType.BALLOON, true);
 
-    public HelpEntryNotification(Project currentProject, String message){
+    public HelpEntryNotification(String message){
         super( GROUP_DISPLAY_ID_INFO.getDisplayId(),
                 "Current Time",
                 message,
