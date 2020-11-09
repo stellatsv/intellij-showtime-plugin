@@ -1,4 +1,4 @@
-package HelpEntry;
+package com.showtime.HelpEntry;
 
 import com.intellij.notification.Notification;
 import com.intellij.openapi.project.Project;

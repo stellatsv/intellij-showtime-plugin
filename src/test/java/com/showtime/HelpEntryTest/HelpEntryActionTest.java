@@ -1,8 +1,8 @@
-package HelpEntryTests;
+package com.showtime.HelpEntryTest;
 
-import HelpEntry.HelpEntryAction;
-import HelpEntry.HelpEntryNotification;
-import HelpEntry.Notifier;
+import com.showtime.HelpEntry.HelpEntryAction;
+import com.showtime.HelpEntry.HelpEntryNotification;
+import com.showtime.HelpEntry.Notifier;
 import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.project.Project;
 import org.junit.Before;

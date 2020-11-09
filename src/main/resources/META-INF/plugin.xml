@@ -14,7 +14,7 @@
     </extensions>
 
     <actions>
-        <action id="HelpEntry.HelpEntryAction" class="HelpEntry.HelpEntryAction"
+        <action id="com.showtime.HelpEntry.HelpEntryAction" class="com.showtime.HelpEntry.HelpEntryAction"
                 text="HelpEntryAction" description="SDK action example"
                 icon="AllIcons.Vcs.History">
             <add-to-group group-id="HelpMenu" anchor="first"/>
