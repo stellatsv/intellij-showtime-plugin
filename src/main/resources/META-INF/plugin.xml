@@ -15,8 +15,9 @@
     </extensions>
 
     <actions>
-        <action id="main.HelpEntryAction" class="HelpEntry.HelpEntryAction"
-                text="HelpEntryAction" description="SDK action example">
+        <action id="HelpEntry.HelpEntryAction" class="HelpEntry.HelpEntryAction"
+                text="HelpEntryAction" description="SDK action example"
+                icon="AllIcons.Vcs.History">
             <add-to-group group-id="HelpMenu" anchor="first"/>
             <override-text place="MainMenu" text="Show current time"/>
         </action>
